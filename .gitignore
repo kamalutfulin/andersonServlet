@@ -1,0 +1,9 @@
+
+/.idea/
+/src/
+/target/andersonServlet-1.0-SNAPSHOT/
+/target/classes/
+/target/generated-sources/
+/target/maven-archiver/
+/target/maven-status/
+/target/test-classes/
